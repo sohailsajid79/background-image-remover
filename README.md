@@ -7,9 +7,13 @@ This is a Flask web application that allows users to upload images (.jpg, .png) 
 To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
-2. Install the required dependencies: pip install -r requirements.txt
-3. Run the Flask application: python app.py
+2. Install the required dependencies: pip3 install -r requirements.txt
+3. Run the Flask application: python3 app.py
 4. Open a web browser and navigate to `http://localhost:5000` to access the application.
+
+## UI Diagram
+
+![ui_app](./assets/UI.png)
 
 ## Usage
 
@@ -19,11 +23,15 @@ To run this application locally, follow these steps:
 
 ## Technologies Used
 
-- Python
-- Flask
-- rembg
-- HTML
-- CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![rembg](https://img.shields.io/badge/rembg-000000?style=for-the-badge&logo=python&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Acknowledgments
 
